@@ -114,3 +114,18 @@ Old Lady:
 - He sees a growth potential both as a business and a product specifically in the next evolution of the product there is a way to connect with medical systems in order to push information they would require for patient’s medical diagnosis, as well as help in the research medical schools perform.
 - Feels that exposing businesses, other than manufacturing, to the world of IoT utilizing current market lineups and especially smarthome devices will help the market grow more rapidly and increase adoption: “It is inevitable that smarthomes and IoT will be integral part of life in the future, but due to the price point and not an array of clear benefits at the moment will propel the market to grow in different verticals before it reaches critical mass. It is the right track”
 
+### User Findings (10/22/17)
+
+##### DAY: Oct 22th
+##### TALKED TO: Danielly
+##### MAIN REMARKS:
+
+- Danielly is a Lawyer from Brazil. She also has some background in designing.
+- She pointed out that, when we are talking about the visits we made (Hebrew and Lachs), just stating that we saw a doctor and he said that “this is valid” is too superficial and almost obvious. Need to find more sources and go deeper into the “why is it valid”
+- During the intro to the “Jose” story, do not mention the UTI, and just leave to the explanation during the dashboard to create some “surprise” effect.
+- Dashboard: include a list of monitors as a link on the top, close to the name. For a customer with several different data to be monitored, the Nurse could be lost or take too much time to find the right data
+- Privacy issues: the elderly will have knowledge of the monitoring. And if “No”, the facility could have a problem of one resident informing the other.
+- Behavior: the fact that they are being monitored can alter the result of the monitoring.
+- She was disappointed that the system will only measure, and not mix the info to get better insights
+
+
